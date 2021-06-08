@@ -1,0 +1,7 @@
+function login(){
+print("success")
+}
+
+function password(){
+print" success"
+}
